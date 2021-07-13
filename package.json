@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "get-image-data": "^5.0.0",
+    "image-filter-grayscale": "^1.0.1",
+    "image-to-rgba-matrix": "^1.0.0"
+  }
+}
